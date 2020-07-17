@@ -2,7 +2,7 @@
 
 Este foi o primeiro script público que fiz, antes mesmo de existir o Github, poucos hostings com suporte grátuito a PHP ou pelo menos com um custo acessível, para uma pessoa que não trabalhava rs.
 
-Se nenhum identação e com diversos erros de portuguẽs, deixando as 3 versões aqui.
+Se nenhum identação e com diversos erros de português, deixando as 3 versões aqui.
 
 ## Descrição original
 

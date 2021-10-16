@@ -1,8 +1,8 @@
 # Download Security
 
-Este foi o primeiro script público que fiz, antes mesmo de existir o Github, poucos hostings com suporte grátuito a PHP ou pelo menos com um custo acessível, para uma pessoa que não trabalhava rs.
+Este foi o primeiro script público que fiz, antes mesmo de existir o Github, poucos hostings com suporte gratuito a PHP ou pelo menos com um custo acessível, para uma pessoa que não trabalhava.
 
-Se nenhum identação e com diversos erros de português, deixando as 3 versões aqui.
+Se nenhuma identação e com diversos erros de português, estou deixando as 3 versões aqui.
 
 ## Descrição original
 
